@@ -1,6 +1,0 @@
-/Users/obee/Desktop/gamedev/bones/build/CMakeFiles/Bones.dir
-/Users/obee/Desktop/gamedev/bones/build/CMakeFiles/edit_cache.dir
-/Users/obee/Desktop/gamedev/bones/build/CMakeFiles/rebuild_cache.dir
-/Users/obee/Desktop/gamedev/bones/build/external/lua/CMakeFiles/lua.dir
-/Users/obee/Desktop/gamedev/bones/build/external/lua/CMakeFiles/edit_cache.dir
-/Users/obee/Desktop/gamedev/bones/build/external/lua/CMakeFiles/rebuild_cache.dir
