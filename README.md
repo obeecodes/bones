@@ -1,6 +1,4 @@
 # bones
-Entity Component System built using C++, Lua, and Raylib.
-# bones
 
 Entity Component System built using C++, Lua, and Raylib.
 
@@ -20,8 +18,7 @@ Entity Component System built using C++, Lua, and Raylib.
 
 ## 🎥 Demo
 
-https://github.com/obeecodes/bones/videos/demo.mov
-
+https://github.com/obeecodes/bones/blob/main/videos/demo.mov
 ---
 
 ## 🛠️ Build Instructions
